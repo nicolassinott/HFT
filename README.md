@@ -1,6 +1,6 @@
 # 📈 HFT
 
-Repository dedicated for the analysis of some papers on high frequency trading. Our work is done under the supervision of Mr. Mathieu Rosenbaum in the course MAP511 - Initiation à la recherche.
+Repository dedicated for the analysis of some papers on high frequency trading. Our work is done under the supervision of Professor Mathieu Rosenbaum in the course MAP511 - Initiation à la recherche of École Polytechnique.
 
 ## 📜 Papers
 
