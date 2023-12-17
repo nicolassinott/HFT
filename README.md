@@ -2,6 +2,12 @@
 
 Repository dedicated for the analysis of some papers on high frequency trading. Our work is done under the supervision of Professor Mathieu Rosenbaum in the course MAP511 - Initiation to Research of École Polytechnique.
 
+Group members:
+
+- Nicolas Lopes ([GitHub](https://github.com/nicolassinott), [Linkedin](https://www.linkedin.com/in/nicolassinott/))
+- Ziad Oumzil ([GitHub](https://github.com/ziadZZ), [Linkedin](https://www.linkedin.com/in/ziad-oumzil/))
+- Maxime Moutet ([GitHub](https://github.com/MoutetMaxime), [Linkedin](https://www.linkedin.com/in/maximemoutet/))
+
 <p align="center">
   <img src="images/observed_price.png" />
 </p>
