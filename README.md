@@ -23,3 +23,5 @@ Here are the papers we used in our research as well as their corresponding folde
 [6] Peter Carr and Dilip B. Madan (2000). Option valuation using the fast Fourier transform, Journal of Computational Finance, DOI: 10.21314/JCF.1999.043. ([Paper](https://www.risk.net/journal-of-computational-finance/2160495/option-valuation-using-the-fast-fourier-transform), [Notebook](https://github.com/nicolassinott/HFT/blob/main/notebooks/fft/model.ipynb))
 
 [7] Kahl, C. and Jackel, P. (2005) Not-So-Complex Logarithms in the Heston Model. Wilmott Magazine, 19, 94-103. ([Paper](https://wilmott.com/not-so-complex-logarithms-in-the-heston-model/), [Notebook](https://github.com/nicolassinott/HFT/blob/main/notebooks/fft/model.ipynb))
+
+[8] Heston, S. (1993): A closed-form solution for options with stochastic volatility with applications to bond and currency options, Review of Financial Studies 6, 327-343. ([Paper](https://www.jstor.org/stable/2962057), [Notebook](https://github.com/nicolassinott/HFT/blob/main/notebooks/fft/model.ipynb))
